@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420661885322",
+    "project_id": "travel-hack-440a4",
+    "storage_bucket": "travel-hack-440a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420661885322:android:650b3865a373fccee0b073",
+        "android_client_info": {
+          "package_name": "com.example.travelhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420661885322-q26pcb1m1a3kioj1lq3rmtbmmt2i6osl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACsOohmIiJtb5bzirN4KAjefYKIyDdRPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420661885322-q26pcb1m1a3kioj1lq3rmtbmmt2i6osl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

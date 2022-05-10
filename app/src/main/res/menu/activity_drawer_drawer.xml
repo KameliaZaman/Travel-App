@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_icon"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/map_icon"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_currency"
+            android:icon="@drawable/currency_icon"
+            android:title="@string/menu_currency" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/hotel_icon"
+            android:title="@string/menu_hotel" />
+        <item
+            android:id="@+id/nav_weather"
+            android:icon="@drawable/weather_icon"
+            android:title="@string/menu_weather" />
+        <item
+            android:id="@+id/nav_flight"
+            android:icon="@drawable/flight_icon"
+            android:title="@string/menu_flight" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile_icon"
+            android:title="@string/menu_profile" />
+    </group>
+</menu>

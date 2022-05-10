@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@drawable/login_wallpaper">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#3fff"
+    android:gravity="center"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Travel Hack"
+        android:background="@drawable/circle"
+        android:gravity="center"
+        android:textColor="#ffffff"/>
+    <EditText
+        android:id="@+id/email"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:hint="Email"
+        android:textColorHint="#FFFBF6"
+        android:background="@drawable/custombutton"
+        />
+    <EditText
+        android:id="@+id/password"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:hint="Password"
+        android:textColorHint="#FFFBF6"
+        android:background="@drawable/custombutton"/>
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:text="Sign In"
+        android:textAllCaps="false"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/custombutton2"
+        android:textColor="#FFFBF6"/>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#3fff"
+        android:layout_marginTop="15dp"/>
+    <Button
+        android:id="@+id/btn_signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Don't have an account? Sign Up!"
+
+        android:layout_marginTop="15dp"
+        android:textColor="#FFFBF6"
+        android:background="@color/purple_200"
+        android:padding="10dp"
+        />
+
+</LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

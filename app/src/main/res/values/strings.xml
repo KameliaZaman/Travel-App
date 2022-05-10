@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Travel Hack</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Travel Hack</string>
+    <string name="nav_header_subtitle">An app for passionate tourists</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_currency">Currency Converter</string>
+    <string name="menu_hotel">Hotels</string>
+    <string name="menu_flight">Flights</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_profile">Profile</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_currency">CurrencyActivity</string>
+    <string name="title_activity_hotel">HotelActivity</string>
+    <string name="title_activity_place">PlaceActivity</string>
+    <string name="title_activity_weather">WeatherActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_flight">FlightActivity</string>
+
+    <string name="Hotel1">Hotel Name 1</string>
+    <string name="HotelsDetails">loremesjdf uhdiufa gfs dsgofiu ueyrg djfb
+    kjfgk shfgi krgeosi lkajf uihgo</string>
+
+    <string name="sundarban">Sundarban</string>
+    <string name="rangamati">rangamati</string>
+    <string name="bandarban">bandarban</string>
+    <string name="saintmartin">Sanit-martin</string>
+    <string name="coxsbazar">Cox\'s Bazar</string>
+    <string name="sajek">sajek</string>
+    <string name="sundarban_name">Sundarban,Khulna Division\n Bangladesh</string>
+    <string name="sundarban_desc">Sundarbans is a mangrove area in the delta formed by the confluence
+        of the Ganges,Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the
+        Hooghly River in India\'s stateof West Bengal to the Baleswar River in Bangladesh\'s division
+        of Khulna.\n\n
+        Location: Presidency division, West Bengal, India; Khulna Division, Bangladesh\n\n
+        Nearest city: Kolkata, Khulna, Bagerhat, Patuakhali, Barguna, Satkhira</string>
+    <string name="ragamati_name">Rangamati, Chittagong,Bangladesh</string>
+    <string name="rangamati_desc">Rangamati is the administrative headquarters of Rangamati Hill District
+        in the Chittagong Hill Tracts of Bangladesh. The town is located at 22°37\'60N 92°12\'0E and has
+        an altitude of 14 metres. The district is administered by an office named as District Administration,
+        Rangamati.
+        Area: 64.75 km²\n
+        Elevation: 15 m\n
+        Postal Code: 4500\n
+        Weather: 23°C, Wind SW at 2 km/h, 69% Humidity weather.com\n
+        Area code: 0351\n
+        Local time: Wednesday 5:04 PM\n
+        District: Rangamati District</string>
+    <string name="bandarban_name">Bandarban, Chittagong, Bangladesh</string>
+    <string name="bandarban_desc">Bandarban Hill District is the most remote and least populated
+        district in Bangladesh. The lure of the tallest peaks of Bangladesh, treks through virgin
+        forests and chance to meet more than 15 tribes of the region up close is growing both among
+        Bangladeshis and tourists from other countries. Since the insurgency ceased in the Chittagong
+        Hill Tracts (a cluster that includes all three hill districts of Bangladesh) it has opened up for
+        tourists more than a decade back, though some of the western tourist guides may still describe the
+        area as a major security risk.</string>
+
+
+</resources>
