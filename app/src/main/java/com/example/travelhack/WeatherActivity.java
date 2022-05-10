@@ -38,7 +38,7 @@ public class WeatherActivity extends AppCompatActivity {
     EditText etCity,etCountry;
     TextView tvResult;
     private final String url="https://api.openweathermap.org/data/2.5/weather";
-    private final String appid="c373e8059c2847ba7395cd0194d5803c";
+    private final String appid="";
     DecimalFormat df= new DecimalFormat("#.##");
     ImageView arrowImg;
     LinearLayout weatherback;
